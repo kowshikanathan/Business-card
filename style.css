@@ -1,0 +1,27 @@
+.img-photo{
+    width:150px;
+    border-radius:100%;
+}
+.card{
+    padding:20px;
+    display:flex;
+    justify-content:space-between;
+    width:450px;
+    align-items:center;
+    margin:0 auto;
+    background-color:#D9EAF6;
+    text-align:center;
+    
+}
+.border{
+    border-bottom:4px solid #D3C6FD;
+}
+body{
+    margin:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    hover:background-color:#D9EAF6;
+}
+.image{
+    margin-top:0%;
+    shadow:0px 0px 10px 0px #1d1b22;
+}
